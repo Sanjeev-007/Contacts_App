@@ -1,1 +1,1 @@
-This is the APK of the Contacts App.
+# This is the APK of the Contacts App.
